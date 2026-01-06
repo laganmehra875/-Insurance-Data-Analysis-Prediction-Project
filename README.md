@@ -138,13 +138,13 @@ charges
 
 # 📈 Key Insights
 
-### ***Smokers have significantly higher insurance charges***
+### 1. ***Smokers have significantly higher insurance charges***
 
-BMI and age strongly affect medical costs
+2. BMI and age strongly affect medical costs
 
-Region has moderate impact
+3. Region has moderate impact
 
-Non-smokers generally fall in lower charge brackets
+4. Non-smokers generally fall in lower charge brackets
 
 
 
