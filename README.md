@@ -23,3 +23,18 @@ Insurance companies need to understand what factors influence medical insurance 
 4. Improve business decisions
 
 This project analyzes variables like age, BMI, smoking habits, gender, region, and children to study their impact on insurance charges.
+
+
+
+## **📁 Dataset Information**
+
+***Dataset Name:*** Insurance Dataset
+Source: Common public dataset (used for ML & analytics practice)
+Total Features:
+age
+sex
+bmi
+children
+smoker
+region
+charges (target variable)
