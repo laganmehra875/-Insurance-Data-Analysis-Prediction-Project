@@ -152,15 +152,15 @@ charges
 
 **Apply ML models:**
 
-Linear Regression
+. Linear Regression
 
-Random Forest
+. Random Forest
 
-XGBoost
+. XGBoost
 
-Model evaluation using RMSE & R²
+. Model evaluation using RMSE & R²
 
-Deployment using Flask / Streamlit
+. Deployment using Flask / Streamlit
 
 
 
