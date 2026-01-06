@@ -65,6 +65,14 @@ Seaborn
 
 **Environment:** Jupyter Notebook
 
+## 🔄 Project Workflow
+
+### 1️⃣ Data Loading
+
+Imported the dataset using Pandas
+
+Checked dataset shape, columns, and data types
+
 
 
 
