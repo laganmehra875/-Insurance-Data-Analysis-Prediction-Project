@@ -74,6 +74,49 @@ Imported the dataset using Pandas
 Checked dataset shape, columns, and data types
 
 
+## 2️⃣ Exploratory Data Analysis (EDA)
+
+***Distribution analysis using:***
+
+Histograms
+
+Boxplots
+
+Countplots
+
+***Identified:***
+
+Outliers in BMI & charges
+
+Imbalance in smoker vs non-smoker
+
+Higher charges for smokers
+
+
+## 3️⃣ Data Cleaning
+
+Checked missing values (no null values found)
+
+Converted categorical values into numerical form
+
+
+## 4️⃣ Feature Engineering
+
+***Converted:***
+
+smoker → binary (0 = No, 1 = Yes)
+
+sex → renamed as is_gender
+
+***Created BMI categories***
+
+Binned insurance charges using quantile binning
+
+Applied One-Hot Encoding on region column
+
+Converted all features to integer type for model compatibility
+
+
 
 
 
