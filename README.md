@@ -19,9 +19,7 @@ The goal is to clean the data, analyze patterns, transform categorical variables
 Insurance companies need to understand what factors influence medical insurance charges so they can:
 
 1. Price policies accurately
-
 2. Identify high-risk customers
-3. 
 4. Improve business decisions
 
 This project analyzes variables like age, BMI, smoking habits, gender, region, and children to study their impact on insurance charges.
