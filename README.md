@@ -138,7 +138,7 @@ charges
 
 # 📈 Key Insights
 
-#### ***Smokers have significantly higher insurance charges***
+### ***Smokers have significantly higher insurance charges***
 
 BMI and age strongly affect medical costs
 
