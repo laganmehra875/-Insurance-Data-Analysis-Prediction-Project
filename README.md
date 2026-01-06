@@ -29,8 +29,11 @@ This project analyzes variables like age, BMI, smoking habits, gender, region, a
 ## **📁 Dataset Information**
 
 ***Dataset Name:*** Insurance Dataset
+
 Source: Common public dataset (used for ML & analytics practice)
-Total Features:
+
+**Total Features:**
+
 age
 sex
 bmi
