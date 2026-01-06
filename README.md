@@ -35,9 +35,37 @@ Source: Common public dataset (used for ML & analytics practice)
 **Total Features:**
 
 age
+
 sex
+
 bmi
+
 children
+
 smoker
+
 region
+
 charges (target variable)
+
+
+## 🛠 Tools & Technologies Used
+
+**Programming Language:** Python
+
+**Libraries:**
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+**Environment:** Jupyter Notebook
+
+
+
+
+
