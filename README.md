@@ -148,7 +148,19 @@ charges
 
 
 
+## 🚀 Future Enhancements
 
+**Apply ML models:**
+
+Linear Regression
+
+Random Forest
+
+XGBoost
+
+Model evaluation using RMSE & R²
+
+Deployment using Flask / Streamlit
 
 
 
