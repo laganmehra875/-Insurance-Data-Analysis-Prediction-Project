@@ -117,6 +117,38 @@ Applied One-Hot Encoding on region column
 Converted all features to integer type for model compatibility
 
 
+## 5️⃣ Feature Selection
+
+***Final selected features:***
+
+age
+
+gender
+
+bmi
+
+children
+
+smoker
+
+region (encoded)
+
+charges
+
+
+# 📈 Key Insights
+
+***Smokers have significantly higher insurance charges***
+
+BMI and age strongly affect medical costs
+
+Region has moderate impact
+
+Non-smokers generally fall in lower charge brackets
+
+
+
+
 
 
 
